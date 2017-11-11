@@ -1,5 +1,6 @@
 # alexa-teatimer :tea:
 *Alexa, start tea timer*
+
 Amazon Echo will inform you when your tea is ready!
 
 ![Tea](./assets/tea_small.jpg)
