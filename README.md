@@ -12,3 +12,4 @@ Files are stored in the *speechAssets* folder
 ## To do
 - Instead of ssml <break /> use echo's internal timer
 - Allow to select different tea type: fruit (8m)
+- Add random images of tea: https://www.pexels.com/search/tea/
