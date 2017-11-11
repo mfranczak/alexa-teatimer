@@ -7,7 +7,7 @@ Amazon Echo will inform you when your tea is ready!
 
 ## Lambda functions (node 6.10)
 - Run `make lambda` to generate zip archive with javascript code
-- Upload **src/alexa-tea-timer.zip** as lambda function in your AWS console.
+- Upload **alexa-tea-timer.zip** as lambda function in your AWS console.
 
 ## Alexa Skill
 Files are stored in the *speechAssets* folder
